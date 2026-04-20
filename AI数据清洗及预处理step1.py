@@ -13,7 +13,7 @@ SOURCE_COLLECTION = "youtube_comments_final_zy"  # 你的源集合名
 TARGET_DB = "textusing"
 TARGET_COLLECTION = "text1"  # 目标集合，结构和你截图完全一致
 BATCH_SIZE = 20  # 防截断安全批次
-API_KEY = "3ecf27d6-b1aa-49af-8657-bf5eb9673fa8"
+API_KEY = ""
 BASE_URL = "https://ark.cn-beijing.volces.com/api/v3/"
 MODEL = "doubao-seed-2-0-pro-260215"
 
