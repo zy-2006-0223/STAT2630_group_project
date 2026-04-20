@@ -1,4 +1,3 @@
-# STAT2630_group_project
 # YouTube 电影评论情感分析项目
 
 ## 项目概述
