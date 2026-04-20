@@ -14,7 +14,7 @@ TARGET_DB = "textusing"
 TARGET_COLLECTION = "finally_cleaning"      # AI 过滤后的最终干净数据
 
 BATCH_SIZE = 20
-API_KEY = "3ecf27d6-b1aa-49af-8657-bf5eb9673fa8"
+API_KEY = ""
 BASE_URL = "https://ark.cn-beijing.volces.com/api/v3/"
 MODEL = "doubao-seed-2-0-pro-260215"
 
